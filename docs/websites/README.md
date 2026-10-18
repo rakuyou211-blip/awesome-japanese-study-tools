@@ -37,6 +37,12 @@ Blog：[読書尚友](https://ebstudio.hatenablog.com/archive/category/%E8%AA%AD
 
 这个工具针对青空文库的 txt 专门做过优化，不过上手难度确实比较大。
 
+### TextToVoicevox
+
+[GitHub - rakuyou211-blip/TextToVoicevox](https://github.com/rakuyou211-blip/TextToVoicevox)
+
+用 VOICEVOX（ずんだもん等）把青空文库的 txt 朗读出来，会自动去掉注音标记；也能读 PDF、图片和屏幕上框选的日文，并导出音频和 SRT 字幕。免费、开源、离线运行，支持 Windows 和 Mac。不过界面只有日文，另外需要自己安装 VOICEVOX 和 Python。
+
 ## 日亚官网
 
 [https://www.amazon.co.jp/](https://www.amazon.co.jp/)
